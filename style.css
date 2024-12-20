@@ -1,0 +1,8 @@
+h1, h2, div, class5, blockquote { background: #dbadee}
+p.special {
+    font: 12pt/14pt sans-serif;
+    margin: 5px 0px 2px 25px;
+    border: medium dashed black;
+    background: black url ()
+    repeat-x fixed top right
+}
